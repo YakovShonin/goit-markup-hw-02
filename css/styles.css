@@ -34,6 +34,14 @@ ul, ol {list-style-type: none;}
         letter-spacing: 0.02em;
     text-decoration: none;
 }
+.header-nav-list .header-nav-list-item-link:hover,
+.header-nav-list .header-nav-list-item-link:focus {
+    color: #404bbf;
+}
+
+.adres {
+    font-style: normal;
+}
 .adres-list .adres-contact:hover,
 .adres-list .adres-contact:focus {
     color: #404bbf;
