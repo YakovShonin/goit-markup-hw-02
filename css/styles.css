@@ -63,7 +63,6 @@ ul, ol {list-style-type: none;}
 }
 .hero-button {
         background: #4D5AE5;
-        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
         color: #FFF;
             font-family: Roboto;
             font-weight: 500;
@@ -150,8 +149,6 @@ ul, ol {list-style-type: none;}
 }
 .section-four-title-text {
     color: #2E2F42;
-    
-        /* Header 3 */
         font-family: Roboto;
         font-size: 20px;
         font-style: normal;
@@ -161,8 +158,6 @@ ul, ol {list-style-type: none;}
 }
 .section-four-text {
     color: #434455;
-    
-        /* Body */
         font-family: Roboto;
         font-size: 16px;
         line-height: 1.5;
@@ -170,7 +165,7 @@ ul, ol {list-style-type: none;}
 }
 
 footer {
-    background: #2E2F42;
+    background-color: #2E2F42;
 }
 .footer-logo {
     color: #4D5AE5;
