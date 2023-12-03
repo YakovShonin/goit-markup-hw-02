@@ -8,6 +8,8 @@ header {
     border-bottom: 1px solid  #E7E9FC;
 }
 
+ul, ol {list-style-type: none;}
+
 .header-nav-logo {
     color: #4D5AE5;
         font-family: Raleway;
@@ -22,8 +24,6 @@ header {
 .header-logo-studio {
     color: #2E2F42;
 }
-
-ul, ol {list-style-type: none;}
 
 .header-nav-list-item {
     background-color: #FFFFFF;
@@ -58,7 +58,6 @@ ul, ol {list-style-type: none;}
 .hero-title {
     color: #FFF;
         text-align: center;
-        /* Header 1 */
         font-family: Roboto;
         font-size: 56px;
         font-weight: 700;
@@ -85,8 +84,6 @@ ul, ol {list-style-type: none;}
 }
 .section-two-title {
     color: #2E2F42;
-    
-        /* Header 3 */
         font-family: Roboto;
         font-size: 20px;
         font-style: normal;
@@ -96,7 +93,6 @@ ul, ol {list-style-type: none;}
 }
 .section-two-text {
     color: #434455;
-        /* Body */
         font-family: Roboto;
         font-size: 16px;
         line-height: 1.5;
@@ -109,7 +105,6 @@ ul, ol {list-style-type: none;}
 .section-three-title {
     color: #2E2F42;
         text-align: center;
-        /* Header 2 */
         font-family: Roboto;
         font-size: 36px;
         font-style: normal;
@@ -124,8 +119,6 @@ ul, ol {list-style-type: none;}
 .section-three-title-text {
     color: #2E2F42;
         text-align: center;
-    
-        /* Header 3 */
         font-family: Roboto;
         font-size: 20px;
         font-style: normal;
@@ -136,8 +129,6 @@ ul, ol {list-style-type: none;}
 .section-three-text {
     color: #434455;
         text-align: center;
-    
-        /* Body */
         font-family: Roboto;
         font-size: 16px;
         line-height: 1.5;
@@ -150,8 +141,6 @@ ul, ol {list-style-type: none;}
 .section-four-title {
     color: #2E2F42;
         text-align: center;
-    
-        /* Header 2 */
         font-family: Roboto;
         font-size: 36px;
         font-style: normal;
