@@ -69,8 +69,8 @@ ul, ol {list-style-type: none;}
         line-height: 1.07;
         letter-spacing: 0.02em;
 }
-.hero-button:hover,
-.hero-button:focus {
+.hero .hero-button:hover,
+.hero .hero-button:focus {
     color: #404BBF;
 }
 .hero-button {
