@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #344455;
+    color: #434455;
     background: #FFFFFF;
 }
 
@@ -32,8 +32,6 @@ ul, ol {list-style-type: none;}
 
 .header-nav-list-item-link {
     color: var(--NAVY-BLUE, #2E2F42);
-    
-        /* Body Medium */
         font-family: Roboto;
         font-weight: 500;
         line-height: 1.5;
