@@ -69,10 +69,14 @@ ul, ol {list-style-type: none;}
         line-height: 1.07;
         letter-spacing: 0.02em;
 }
+.hero-button:hover,
+.hero-button:focus {
+    color: #404bbf;
+}
 .hero-button {
         background: #4D5AE5;
         color: #FFF;
-            font-family: Roboto;
+            font-family: "Roboto", sans-serif;
             font-weight: 500;
             line-height: 1.5;
             letter-spacing: 0.04em;
@@ -172,16 +176,16 @@ ul, ol {list-style-type: none;}
         letter-spacing: 0.02em;
 }
 
-footer {
+.footer {
     background-color: #2E2F42;
 }
 .footer-logo {
     color: #4D5AE5;
-        font-family: Raleway;
+        font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-style: normal;
         font-weight: 700;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         text-decoration: none;
